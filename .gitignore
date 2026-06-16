@@ -1,3 +1,4 @@
+data/*.csv
 models/*.pkl
 *.pyc
 __pycache__/
